@@ -1,0 +1,1 @@
+"""Internal product feedback manager."""

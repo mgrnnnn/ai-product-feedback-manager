@@ -1,0 +1,2 @@
+{"product_id":"portal","text":"Нужна выгрузка отчётов в Excel","expected_product":"portal","expected_type":"feature_request","pairs":[{"topic":{"product":"portal","type":"feature_request","scenario":null,"user_need":"Нужна выгрузка отчётов в Excel"},"same_need":true},{"topic":{"product":"portal","type":"feature_request","scenario":null,"user_need":"Нужна выгрузка отчётов в PDF"},"same_need":false}]}
+{"product_id":"portal","text":"Ошибка при открытии заявки","expected_product":"portal","expected_type":"bug"}
